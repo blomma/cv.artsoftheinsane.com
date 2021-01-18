@@ -54,10 +54,10 @@
 
     &__place {
         &::before {
-            font-family: 'Material Icons';
+            font-family: "Material Icons";
             color: $color-primary;
             font-size: 1.4rem;
-            content: 'place';
+            content: "place";
             display: inline-block;
             padding-right: 3px;
             vertical-align: middle;
