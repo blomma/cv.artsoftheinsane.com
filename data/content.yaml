@@ -1,6 +1,7 @@
 BasicInfo:
   FirstName: Mikael
   LastName: Hultgren
+  Photo: img/mikael.jpeg
   Contacts:
     - Icon: fas fa-phone
       Info: +46 70 7178784

@@ -19,9 +19,9 @@
 
     &__img {
         object-fit: cover;
-        width: 110%;
+        width: 140%;
         transition: all 0.3s cubic-bezier($cubic);
-        @include all-center;
+        @include hz-center;
 
         &:hover {
             width: 105%;
