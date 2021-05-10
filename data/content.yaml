@@ -17,7 +17,7 @@ Experience:
     Place: Stockholm, Sverige
     Positions:
       - Title: Technical Lead Developer
-        Date: 2016 - Present
+        Date: 2016 - 2021
         Description:
           Vilken fantastiskt teknikstack att få jobba med. RabbitMQ som messagebus tillåter oss en väldig flexibilitet och redundans. En migrering till .NET core för våra applikationer ger oss möjligheten att inte bara får arbeta med vad som är framtiden inom .NET ramverket men öppnar också upp bättre möjligheter för att köra våra applikationer i docker och molnet. ElasticSearch driver inte bara vårt sök men också är vårt val för att hantera våra loggar. Allt detta och mer är så klart klustrat och med en high availability på allt så behöver man verkligen inte lika vaken om nätterna med att oroa sig för att nåt ska gå fel. På detta kommer ett fokus på prestanda och stabilitet i våra system.
 
