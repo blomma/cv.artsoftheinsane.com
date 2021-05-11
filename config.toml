@@ -1,4 +1,4 @@
-baseURL = "https://cv.artsoftheinsane.com/"
+baseURL = "https://www.artsoftheinsane.com/cv"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 theme = "almeida-cv"
