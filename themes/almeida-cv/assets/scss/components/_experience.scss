@@ -17,10 +17,6 @@
     &__job {
         position: relative;
         transition: transform 0.2s cubic-bezier($cubic);
-
-        &:hover {
-            transform: translateX(0.5rem);
-        }
     }
 
     &__company,
@@ -31,13 +27,13 @@
     }
 
     &__company {
-        color: $color-grey-dark;
+        color: $color-dark;
     }
 
     &__position {
         text-transform: uppercase;
         font-size: 1.3rem;
-        color: $color-grey-dark;
+        color: $color-dark;
     }
 
     &__date,
@@ -54,10 +50,10 @@
 
     &__place {
         &::before {
-            font-family: "Material Icons";
-            color: $color-primary;
+            font-family: 'Material Icons';
+            color: $color-icon-background;
             font-size: 1.4rem;
-            content: "place";
+            content: 'place';
             display: inline-block;
             padding-right: 3px;
             vertical-align: middle;
@@ -80,8 +76,8 @@
         font-size: 0.9rem;
         font-weight: 400;
         display: inline-block;
-        background-color: $color-primary;
-        color: $color-primary-text;
+        background-color: $color-icon-background;
+        color: $color-icon-primary;
         border-radius: 1rem;
         padding: 0.1rem 0.6rem;
     }

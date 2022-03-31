@@ -11,20 +11,12 @@
         height: $width-right-col - 8rem;
         text-align: center;
         transition: all 0.3s cubic-bezier($cubic);
-
-        &:hover {
-            width: 110%;
-        }
     }
 
     &__img {
         object-fit: cover;
-        width: 140%;
+        width: 110%;
         transition: all 0.3s cubic-bezier($cubic);
-        @include hz-center;
-
-        &:hover {
-            width: 105%;
-        }
+        @include all-center;
     }
 }

@@ -13,7 +13,8 @@
         position: absolute;
         float: right;
         width: $width-right-col;
-        background-color: $color-right-col;
+        background-color: $color-right-col-background;
+        color: $color-right-col-body-text;
         height: 100%;
         padding: 2rem 3rem;
         right: 1rem;
