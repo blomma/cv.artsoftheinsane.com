@@ -16,7 +16,7 @@
 
         &::after,
         &::before {
-            content: '';
+            content: "";
             position: absolute;
             border-top: 1px solid $color-right-col-heading-text;
             border-bottom: 1px solid $color-right-col-heading-text;
