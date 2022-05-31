@@ -1,10 +1,8 @@
 BasicInfo:
   FirstName: Mikael
   LastName: Hultgren
-  Photo: img/mikael.jpeg
+  Photo: img/mikael.jpg
   Contacts:
-    - Icon: fas fa-phone
-      Info: +46 70 7178784
     - Icon: fas fa-envelope
       Info: blomma@artsoftheinsane.com
     - Icon: fas fa-globe
