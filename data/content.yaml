@@ -121,10 +121,9 @@ Skills:
     - Family: Programming
       Items:
           - C#
-          - HTML
+          - Typescript
           - Javascript
           - CSS
-          - SASS
           - SQL
     - Family: Frameworks
       Items:
@@ -136,6 +135,8 @@ Skills:
           - Git
           - Docker
           - Azure
+          - Azure
+          - Octopus Deploy
 
 Languages:
     - Name: Svenska
